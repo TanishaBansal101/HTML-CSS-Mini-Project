@@ -1,3 +1,14 @@
 body,html{
     background-color: lightseagreen;
+    font-size: 24px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    background-color: #003049;
+    color: #edf2f4;
+}
+article{
+    background-color: #f4acb7;
+    margin: 20px;
+    padding: 10px;
+    color: #0d1b2a;
 }
